@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@600&display=swap');
+
+video {
+  border:3px solid black;
+}
+body {
+  background: url("background.jpg");
+  color: white;
+  font-family: 'Fredoka', sans-serif;
+}
+h3 {
+  font-family: 'Fredoka', sans-serif;
+}
